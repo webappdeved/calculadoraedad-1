@@ -1,3 +1,4 @@
+# ARCHIVO INCOMPLETO CORREGIR (ver ejemplo de la actividad)
 #include <iostream>
 #include <ctime>
 #include <iomanip>
