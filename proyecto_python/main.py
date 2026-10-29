@@ -1,3 +1,4 @@
+# ARCHIVO INCOMPLETO CORREGIR (ver ejemplo de la actividad)
 #!/usr/bin/env python3
 # -*- coding: utf-8 -*-
 
